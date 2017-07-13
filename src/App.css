@@ -18,13 +18,6 @@
   font-size: large;
 }
 
-.modal-container {
-  position: relative;
-}
-.modal-container .modal, .modal-container .modal-backdrop {
-  position: absolute;
-}
-
 .button-container{
   width: 50%;
   margin: 0 25%;
